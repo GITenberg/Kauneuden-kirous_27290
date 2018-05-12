@@ -1,0 +1,36 @@
+_repo: Kauneuden-kirous_27290
+_version: 0.1.0
+alternative_title: Der Fluch der Schönheit. Finnish
+contributor:
+  translator:
+    agent_name: Jalava, Antti
+    birthdate: 1846
+    deathdate: 1909
+    gutenberg_agent_id: '9456'
+    url: http://www.gutenberg.org/2009/agents/9456
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riehl, Wilhelm Heinrich
+    alias: Riehl, W. H. (Wilhelm Heinrich)
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '25473'
+    url: http://www.gutenberg.org/2009/agents/25473
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Heinrich_Riehl
+description: ''
+gutenberg_issued: '2008-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27290'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: Kauneuden kirous
+url: http://www.gutenberg.org/ebooks/27290
