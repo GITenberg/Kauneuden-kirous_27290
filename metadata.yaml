@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25473
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Heinrich_Riehl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27290#Kauneuden-kirous
 gutenberg_issued: '2008-11-17'
 gutenberg_type: Text
 identifiers:
